@@ -53,7 +53,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.discreteUniform;
+})();
 })();
 </script>
 ```
@@ -143,9 +145,11 @@ var y = dist.pmf( 3, 0 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 console.log( objectKeys( discreteUniform ) );
 
+})();
 })();
 </script>
 </body>
@@ -237,33 +241,33 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 <!-- <toc-links> -->
 
-[@stdlib/stats/base/dists/discrete-uniform/ctor]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-ctor/tree/umd
+[@stdlib/stats/base/dists/discrete-uniform/ctor]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-ctor/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/discrete-uniform/entropy]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-entropy/tree/umd
+[@stdlib/stats/base/dists/discrete-uniform/entropy]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-entropy/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/discrete-uniform/kurtosis]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-kurtosis/tree/umd
+[@stdlib/stats/base/dists/discrete-uniform/kurtosis]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-kurtosis/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/discrete-uniform/mean]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-mean/tree/umd
+[@stdlib/stats/base/dists/discrete-uniform/mean]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-mean/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/discrete-uniform/median]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-median/tree/umd
+[@stdlib/stats/base/dists/discrete-uniform/median]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-median/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/discrete-uniform/skewness]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-skewness/tree/umd
+[@stdlib/stats/base/dists/discrete-uniform/skewness]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-skewness/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/discrete-uniform/stdev]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-stdev/tree/umd
+[@stdlib/stats/base/dists/discrete-uniform/stdev]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-stdev/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/discrete-uniform/variance]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-variance/tree/umd
+[@stdlib/stats/base/dists/discrete-uniform/variance]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-variance/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/discrete-uniform/cdf]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-cdf/tree/umd
+[@stdlib/stats/base/dists/discrete-uniform/cdf]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-cdf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/discrete-uniform/logcdf]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-logcdf/tree/umd
+[@stdlib/stats/base/dists/discrete-uniform/logcdf]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-logcdf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/discrete-uniform/logpmf]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-logpmf/tree/umd
+[@stdlib/stats/base/dists/discrete-uniform/logpmf]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-logpmf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/discrete-uniform/mgf]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-mgf/tree/umd
+[@stdlib/stats/base/dists/discrete-uniform/mgf]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-mgf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/discrete-uniform/pmf]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-pmf/tree/umd
+[@stdlib/stats/base/dists/discrete-uniform/pmf]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-pmf/tree/umd/tree/umd
 
-[@stdlib/stats/base/dists/discrete-uniform/quantile]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-quantile/tree/umd
+[@stdlib/stats/base/dists/discrete-uniform/quantile]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform-quantile/tree/umd/tree/umd
 
 <!-- </toc-links> -->
 
