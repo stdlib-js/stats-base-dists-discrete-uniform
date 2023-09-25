@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@deno/mod.js';
+import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { DiscreteUniform, cdf, entropy, kurtosis, logcdf, logpmf, mean, median, mgf, pmf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@deno/mod.js';
+import { DiscreteUniform, cdf, entropy, kurtosis, logcdf, logpmf, mean, median, mgf, pmf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@v0.1.0-deno/mod.js';
 ```
 
 #### discreteUniform
@@ -130,7 +130,7 @@ var y = dist.pmf( 3, 0 );
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@deno/mod.js';
+import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@v0.1.0-deno/mod.js';
 
 console.log( objectKeys( discreteUniform ) );
 ```
