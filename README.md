@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-discrete-uniform/tags). For example,
+
+```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { DiscreteUniform, cdf, entropy, kurtosis, logcdf, logpmf, mean, median, mgf, pmf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@v0.2.1-deno/mod.js';
+import { DiscreteUniform, cdf, entropy, kurtosis, logcdf, logpmf, mean, median, mgf, pmf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@deno/mod.js';
 ```
 
 #### discreteUniform
@@ -130,7 +135,7 @@ var y = dist.pmf( 3, 0 );
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@v0.2.1-deno/mod.js';
+import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@deno/mod.js';
 
 console.log( objectKeys( discreteUniform ) );
 ```
