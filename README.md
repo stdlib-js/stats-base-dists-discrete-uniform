@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@esm/index.mjs';
+import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@v0.2.2-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { DiscreteUniform, cdf, entropy, kurtosis, logcdf, logpmf, mean, median, mgf, pmf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@esm/index.mjs';
+import { DiscreteUniform, cdf, entropy, kurtosis, logcdf, logpmf, mean, median, mgf, pmf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@v0.2.2-esm/index.mjs';
 ```
 
 #### discreteUniform
@@ -135,7 +135,7 @@ var y = dist.pmf( 3, 0 );
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@esm/index.mjs';
+import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-discrete-uniform@v0.2.2-esm/index.mjs';
 
 console.log( objectKeys( discreteUniform ) );
 
