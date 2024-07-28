@@ -2,15 +2,41 @@
 
 > Package changelog.
 
-<section class="release" id="v0.2.0">
+<section class="release" id="v0.2.2">
 
-## 0.2.0 (2024-07-28)
+## 0.2.2 (2024-07-28)
 
 <section class="packages">
 
 ### Packages
 
-<section class="package" id="stats-base-dists-discrete-uniform-cdf-unreleased">
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
+## 0.2.1 (2024-07-28)
+
+<section class="packages">
+
+### Packages
+
+<section class="package" id="stats-base-dists-discrete-uniform-cdf-v0.2.1">
 
 #### [@stdlib/stats/base/dists/discrete-uniform/cdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/discrete-uniform/cdf)
 
@@ -22,7 +48,7 @@ No changes reported for this release.</details>
 
 <!-- /.package -->
 
-<section class="package" id="stats-base-dists-discrete-uniform-entropy-unreleased">
+<section class="package" id="stats-base-dists-discrete-uniform-entropy-v0.2.1">
 
 #### [@stdlib/stats/base/dists/discrete-uniform/entropy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/discrete-uniform/entropy)
 
@@ -34,7 +60,7 @@ No changes reported for this release.</details>
 
 <!-- /.package -->
 
-<section class="package" id="stats-base-dists-discrete-uniform-kurtosis-unreleased">
+<section class="package" id="stats-base-dists-discrete-uniform-kurtosis-v0.2.1">
 
 #### [@stdlib/stats/base/dists/discrete-uniform/kurtosis](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/discrete-uniform/kurtosis)
 
@@ -46,7 +72,7 @@ No changes reported for this release.</details>
 
 <!-- /.package -->
 
-<section class="package" id="stats-base-dists-discrete-uniform-logcdf-unreleased">
+<section class="package" id="stats-base-dists-discrete-uniform-logcdf-v0.2.1">
 
 #### [@stdlib/stats/base/dists/discrete-uniform/logcdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/discrete-uniform/logcdf)
 
@@ -58,7 +84,7 @@ No changes reported for this release.</details>
 
 <!-- /.package -->
 
-<section class="package" id="stats-base-dists-discrete-uniform-logpmf-unreleased">
+<section class="package" id="stats-base-dists-discrete-uniform-logpmf-v0.2.1">
 
 #### [@stdlib/stats/base/dists/discrete-uniform/logpmf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/discrete-uniform/logpmf)
 
@@ -70,7 +96,7 @@ No changes reported for this release.</details>
 
 <!-- /.package -->
 
-<section class="package" id="stats-base-dists-discrete-uniform-mean-unreleased">
+<section class="package" id="stats-base-dists-discrete-uniform-mean-v0.2.1">
 
 #### [@stdlib/stats/base/dists/discrete-uniform/mean](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/discrete-uniform/mean)
 
@@ -82,7 +108,7 @@ No changes reported for this release.</details>
 
 <!-- /.package -->
 
-<section class="package" id="stats-base-dists-discrete-uniform-median-unreleased">
+<section class="package" id="stats-base-dists-discrete-uniform-median-v0.2.1">
 
 #### [@stdlib/stats/base/dists/discrete-uniform/median](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/discrete-uniform/median)
 
@@ -94,7 +120,7 @@ No changes reported for this release.</details>
 
 <!-- /.package -->
 
-<section class="package" id="stats-base-dists-discrete-uniform-mgf-unreleased">
+<section class="package" id="stats-base-dists-discrete-uniform-mgf-v0.2.1">
 
 #### [@stdlib/stats/base/dists/discrete-uniform/mgf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/discrete-uniform/mgf)
 
@@ -106,7 +132,7 @@ No changes reported for this release.</details>
 
 <!-- /.package -->
 
-<section class="package" id="stats-base-dists-discrete-uniform-pmf-unreleased">
+<section class="package" id="stats-base-dists-discrete-uniform-pmf-v0.2.1">
 
 #### [@stdlib/stats/base/dists/discrete-uniform/pmf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/discrete-uniform/pmf)
 
@@ -118,7 +144,7 @@ No changes reported for this release.</details>
 
 <!-- /.package -->
 
-<section class="package" id="stats-base-dists-discrete-uniform-quantile-unreleased">
+<section class="package" id="stats-base-dists-discrete-uniform-quantile-v0.2.1">
 
 #### [@stdlib/stats/base/dists/discrete-uniform/quantile](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/discrete-uniform/quantile)
 
@@ -130,7 +156,7 @@ No changes reported for this release.</details>
 
 <!-- /.package -->
 
-<section class="package" id="stats-base-dists-discrete-uniform-stdev-unreleased">
+<section class="package" id="stats-base-dists-discrete-uniform-stdev-v0.2.1">
 
 #### [@stdlib/stats/base/dists/discrete-uniform/stdev](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/discrete-uniform/stdev)
 
@@ -142,7 +168,7 @@ No changes reported for this release.</details>
 
 <!-- /.package -->
 
-<section class="package" id="stats-base-dists-discrete-uniform-variance-unreleased">
+<section class="package" id="stats-base-dists-discrete-uniform-variance-v0.2.1">
 
 #### [@stdlib/stats/base/dists/discrete-uniform/variance](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/discrete-uniform/variance)
 
@@ -184,10 +210,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
-
-</section>
-
-<!-- /.release -->
 
 ## 0.1.1 (2024-02-24)
 
