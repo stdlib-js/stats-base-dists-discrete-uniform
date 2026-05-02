@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-25)
+## Unreleased (2026-05-02)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`f1813da`](https://github.com/stdlib-js/stdlib/commit/f1813dabd21da054ff60d0b76c758c5c28ea0dfc) - **chore:** propagate recent fixes to sibling packages [(#11723)](https://github.com/stdlib-js/stdlib/pull/11723) _(by Philipp Burckhardt)_
+-   [`187e141`](https://github.com/stdlib-js/stdlib/commit/187e141098635f0f2edf0f6f1289e06473ae7fcd) - **chore:** add missing `npm` engine constraint to `stats/base/dists/*/ctor` [(#11686)](https://github.com/stdlib-js/stdlib/pull/11686) _(by Philipp Burckhardt)_
 -   [`63f5705`](https://github.com/stdlib-js/stdlib/commit/63f57057daef3619f73ca34773de66111ba61571) - **docs:** fix C example in `stats/base/dists/discrete-uniform/pmf` [(#11052)](https://github.com/stdlib-js/stdlib/pull/11052) _(by Om-A-osc)_
 -   [`570b077`](https://github.com/stdlib-js/stdlib/commit/570b077ce3411575a1c45bc04c3da1b1fc827db3) - **bench:** refactor to use string interpolation in `stats/base/dists/discrete-uniform` [(#10345)](https://github.com/stdlib-js/stdlib/pull/10345) _(by Vishal Gaikwad, Athan Reines)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
