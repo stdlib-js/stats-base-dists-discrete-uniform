@@ -115,6 +115,7 @@
     "distribution",
     "dist",
     "uniform",
+    "univariate",
     "discrete"
   ],
   "funding": {
