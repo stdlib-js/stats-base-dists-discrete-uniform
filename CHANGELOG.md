@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-10)
+## Unreleased (2026-06-12)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`77195c3`](https://github.com/stdlib-js/stdlib/commit/77195c343d9d48e264a58f8ec213d0df53ca7317) - **docs:** update namespace table of contents [(#12835)](https://github.com/stdlib-js/stdlib/pull/12835) _(by stdlib-bot)_
+-   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`e1dbf10`](https://github.com/stdlib-js/stdlib/commit/e1dbf101e15b1caf71e3dc24884869a23bd5b47e) - **docs:** fix notes concerning edge case behavior [(#12711)](https://github.com/stdlib-js/stdlib/pull/12711) _(by Philipp Burckhardt)_
 -   [`acdf74c`](https://github.com/stdlib-js/stdlib/commit/acdf74c933e2adac96f2d81a2e04836ea6a168f9) - **docs:** fix `stats/base/dists/discrete-uniform` JSDoc summaries [(#12669)](https://github.com/stdlib-js/stdlib/pull/12669) _(by Philipp Burckhardt)_
 -   [`b0bd12b`](https://github.com/stdlib-js/stdlib/commit/b0bd12be8db74dcde712428f3fb0086068e558d2) - **chore:** add `univariate` keyword to outliers in `stats/base/dists` [(#12507)](https://github.com/stdlib-js/stdlib/pull/12507) _(by Philipp Burckhardt)_

@@ -79,7 +79,7 @@ The namespace contains the following distribution functions:
 <div class="namespace-toc">
 
 -   <span class="signature">[`cdf( x, a, b )`][@stdlib/stats/base/dists/discrete-uniform/cdf]</span><span class="delimiter">: </span><span class="description">discrete uniform distribution cumulative distribution function.</span>
--   <span class="signature">[`logcdf( x, a, b )`][@stdlib/stats/base/dists/discrete-uniform/logcdf]</span><span class="delimiter">: </span><span class="description">discrete uniform distribution logarithm of cumulative distribution function.</span>
+-   <span class="signature">[`logcdf( x, a, b )`][@stdlib/stats/base/dists/discrete-uniform/logcdf]</span><span class="delimiter">: </span><span class="description">discrete uniform distribution natural logarithm of cumulative distribution function.</span>
 -   <span class="signature">[`logpmf( x, a, b )`][@stdlib/stats/base/dists/discrete-uniform/logpmf]</span><span class="delimiter">: </span><span class="description">evaluate the natural logarithm of the probability mass function (PMF) for a discrete uniform distribution.</span>
 -   <span class="signature">[`mgf( t, a, b )`][@stdlib/stats/base/dists/discrete-uniform/mgf]</span><span class="delimiter">: </span><span class="description">discrete uniform distribution moment-generating function (MGF).</span>
 -   <span class="signature">[`pmf( x, a, b )`][@stdlib/stats/base/dists/discrete-uniform/pmf]</span><span class="delimiter">: </span><span class="description">discrete uniform distribution probability mass function (PMF).</span>
@@ -178,6 +178,11 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
+## License
+
+See [LICENSE][stdlib-license].
+
+
 ## Copyright
 
 Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
@@ -223,6 +228,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform/tree/esm
 [esm-readme]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/stats-base-dists-discrete-uniform/blob/main/branches.md
+
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-discrete-uniform/main/LICENSE
 
 [discrete-uniform-distribution]: https://en.wikipedia.org/wiki/Discrete_uniform_distribution
 
