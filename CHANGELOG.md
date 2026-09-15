@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-09-15)
 
 <section class="commits">
 
@@ -12,6 +12,14 @@
 
 <details>
 
+-   [`27b0b5b`](https://github.com/stdlib-js/stdlib/commit/27b0b5b83329de0427f317ecebe636e1b25c6e25) - **test:** migrate `stats/base/dists/discrete-uniform/kurtosis` to ULP-based assertions [(#15217)](https://github.com/stdlib-js/stdlib/pull/15217) _(by Athan Reines)_
+-   [`adb952a`](https://github.com/stdlib-js/stdlib/commit/adb952abce6961a2c54cbb62ee29bbfb46093a8a) - **test:** migrate `stats/base/dists/discrete-uniform/mgf` to ULP-based assertions [(#15227)](https://github.com/stdlib-js/stdlib/pull/15227) _(by Athan Reines)_
+-   [`bbb9734`](https://github.com/stdlib-js/stdlib/commit/bbb9734179b2c4305308bccbe5afdee342a12cea) - **test:** migrate `stats/base/dists/discrete-uniform/mean` to ULP-based assertions [(#15071)](https://github.com/stdlib-js/stdlib/pull/15071) _(by Philipp Burckhardt)_
+-   [`3fd51c5`](https://github.com/stdlib-js/stdlib/commit/3fd51c57e1544bf6b40539481a6c907a8352e618) - **test:** migrate `stats/base/dists/discrete-uniform/variance` to ULP-based assertions [(#14862)](https://github.com/stdlib-js/stdlib/pull/14862) _(by Athan Reines)_
+-   [`139c3f0`](https://github.com/stdlib-js/stdlib/commit/139c3f043efa84fa9359ab087acdcbf3be8a154f) - **test:** migrate `stats/base/dists/discrete-uniform/entropy` to ULP-based assertions [(#14745)](https://github.com/stdlib-js/stdlib/pull/14745) _(by Athan Reines)_
+-   [`1dec81c`](https://github.com/stdlib-js/stdlib/commit/1dec81c6e93511f828779c0b72026a87bef13cde) - **test:** migrate `stats/base/dists/discrete-uniform/median` to ULP-based assertions [(#14339)](https://github.com/stdlib-js/stdlib/pull/14339) _(by Athan Reines)_
+-   [`7d941af`](https://github.com/stdlib-js/stdlib/commit/7d941afae450940b4b109646e8ead0ba96129acc) - **test:** migrate `stats/base/dists/discrete-uniform/stdev` to ULP-based assertions [(#14337)](https://github.com/stdlib-js/stdlib/pull/14337) _(by Philipp Burckhardt)_
+-   [`ae69a6c`](https://github.com/stdlib-js/stdlib/commit/ae69a6c74f9198a49fa9c1b338e2d647d2bc89b7) - **test:** migrate `stats/base/dists/discrete-uniform/cdf` to ULP-based assertions [(#14311)](https://github.com/stdlib-js/stdlib/pull/14311) _(by Athan Reines)_
 -   [`fd2d15a`](https://github.com/stdlib-js/stdlib/commit/fd2d15ac502fd4ecbb5e5a92b88f223a035c6917) - **chore:** update keywords [(#13496)](https://github.com/stdlib-js/stdlib/pull/13496) _(by Philipp Burckhardt)_
 -   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
 -   [`77195c3`](https://github.com/stdlib-js/stdlib/commit/77195c343d9d48e264a58f8ec213d0df53ca7317) - **docs:** update namespace table of contents [(#12835)](https://github.com/stdlib-js/stdlib/pull/12835) _(by stdlib-bot)_
