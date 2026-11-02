@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-15)
+## Unreleased (2026-11-02)
 
 <section class="commits">
 
@@ -12,6 +12,11 @@
 
 <details>
 
+-   [`055562b`](https://github.com/stdlib-js/stdlib/commit/055562b5fb477ff9a3349a4f9d4db95c662d15d6) - **test:** migrate `stats/base/dists/discrete-uniform/logpmf` to ULP-based assertions [(#15883)](https://github.com/stdlib-js/stdlib/pull/15883) _(by Athan Reines)_
+-   [`2861fe4`](https://github.com/stdlib-js/stdlib/commit/2861fe430548bb441cce624fcfe35a66059c5fba) - **chore:** clean-up [(#16062)](https://github.com/stdlib-js/stdlib/pull/16062) _(by Philipp Burckhardt)_
+-   [`05da8d1`](https://github.com/stdlib-js/stdlib/commit/05da8d1cb59a2e611f0e4467667f4ce23130d223) - **test:** migrate `stats/base/dists/discrete-uniform/quantile` to ULP-based assertions [(#15926)](https://github.com/stdlib-js/stdlib/pull/15926) _(by Athan Reines)_
+-   [`4cdef2a`](https://github.com/stdlib-js/stdlib/commit/4cdef2a60c3c1d48af7679535bfbdbbdb2af473a) - **test:** migrate `stats/base/dists/discrete-uniform/pmf` to ULP-based assertions [(#16047)](https://github.com/stdlib-js/stdlib/pull/16047) _(by Athan Reines)_
+-   [`0f2be6e`](https://github.com/stdlib-js/stdlib/commit/0f2be6ebba2a19e40c0358fbb2b26fe2de4b4d74) - **test:** migrate `stats/base/dists/discrete-uniform/logcdf` to ULP-based assertions [(#15415)](https://github.com/stdlib-js/stdlib/pull/15415) _(by Athan Reines)_
 -   [`27b0b5b`](https://github.com/stdlib-js/stdlib/commit/27b0b5b83329de0427f317ecebe636e1b25c6e25) - **test:** migrate `stats/base/dists/discrete-uniform/kurtosis` to ULP-based assertions [(#15217)](https://github.com/stdlib-js/stdlib/pull/15217) _(by Athan Reines)_
 -   [`adb952a`](https://github.com/stdlib-js/stdlib/commit/adb952abce6961a2c54cbb62ee29bbfb46093a8a) - **test:** migrate `stats/base/dists/discrete-uniform/mgf` to ULP-based assertions [(#15227)](https://github.com/stdlib-js/stdlib/pull/15227) _(by Athan Reines)_
 -   [`bbb9734`](https://github.com/stdlib-js/stdlib/commit/bbb9734179b2c4305308bccbe5afdee342a12cea) - **test:** migrate `stats/base/dists/discrete-uniform/mean` to ULP-based assertions [(#15071)](https://github.com/stdlib-js/stdlib/pull/15071) _(by Philipp Burckhardt)_
